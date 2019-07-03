@@ -1,17 +1,27 @@
+---
+layout: about
+title: Profile
+permalink: /profile/
+---
+
+
 # Sanshay Katyal
 
 ## Student
 
 D-1105, Charms Castle, Raj Nagar Ext.,
 Ghaziabad, Uttar Pradesh - 201017
-886-070-
+
+886-070-3707
+
 dunkenmaster@disroot.org
 
 ## SKILLS
 
 **Programming languages:**  C, Python, AVR Core C, BASH scripting
 **Hardware/IOT:**  RPi, Galileo, various Intel boards, Arduino, NodeMCU,
-BananaPi, STM32, Various SBC base FLight Controllers
+BananaPi, STM32, Various SBC based FLight Controllers
+
 **Operating Systems:** Desktop: LInux, Windows, MAC
 Embedded: Debian, OpenEmbedded, Chibi etc
 
@@ -56,14 +66,12 @@ backup of 24hours.
 
 2018 - 2019
 
-### Nano Degree in C++, Online
-
-2017  
 
 ## ACHIEVEMENTS
 
 Organizer and Speaker at ILUG-D/LCI (India Linux User Group Delhi Chapter/
 LinuxChix India)
+
 4th/450 Teams at HackDELHI Hackathon, powered by UltraHACK
 
 ## REFERENCES
