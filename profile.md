@@ -44,21 +44,16 @@ podcast series.
 ### OnRoad - Car Accident Prevention and Detection System
 
 #### 2019 
-
-```
 ● Analysis of road accidents and generation of association rules to
 provide a detailed and accurate report for crash investigation with
 relevant risk management practices.
-```
+
 ### Helping Hand - Autonomous Drone Helping Hand
 
 #### 2018 
-
-```
 ● Activity monitration for user’s day to day needs via an autonomous
 quad-copter drone that responds from a range of 10m with a battery
 backup of 24hours.
-```
 
 ## EDUCATION
 
