@@ -4,8 +4,9 @@ title: About Authors
 permalink: /about/
 ---
 
-## Shobhit Singh
+## Dunken Master
 
-I try to learn things. 
+An IoT enthusiast. I am also into RC building for example custom drones and planes.
+ 
 
 
